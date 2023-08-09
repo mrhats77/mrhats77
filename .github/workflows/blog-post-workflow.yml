@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.linkedin.com/feed/"
+          feed_list: "https://www.linkedin.com/feed/update/urn:li:activity:7082134408299728896/"
